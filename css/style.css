@@ -1,0 +1,47 @@
+h1 {
+	color: 	red;
+	font-size: 46px;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 25px;
+	color: white;
+
+	background: green;
+}
+
+.logo-img {
+	width: 215px;
+}
+
+.subtext-h1 {
+	color: white;
+	background: blue;
+	width: 100px;
+}
+
+.text-header {
+	margin-top: 90px;
+}
+
+.one-code {
+	color: red;
+}
+
+.one-h2-padding, .last-h2-padding {
+	padding: 5px;
+}
+
+.two-h2-padding {
+	padding: 40px;
+}
+
+.subtext-h2 {
+	margin-left: 117px;
+}
+
+.border-li li{
+	font-size: 27px;
+	border: 1px solid black;
+}
